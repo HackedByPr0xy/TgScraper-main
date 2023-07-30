@@ -13,7 +13,7 @@ TgScrape is a powerful tool that allows users to scrape users from Telegram grou
 ## Links
 
 [![Discord](https://img.shields.io/badge/Join-Discord-brightgreen?logo=discord)](https://discord.gg/Pr0xyArmyFans)
-[![TikTok](https://img.shields.io/badge/Follow-TikTok-red?logo=tiktok)](https://www.tiktok.com/cityofcard)
+[![TikTok](https://img.shields.io/badge/Follow-TikTok-red?logo=tiktok)](https://www.tiktok.com/@cityofcard)
 [![Telegram](https://img.shields.io/badge/Join-Telegram-blue?logo=telegram)](https://t.me/CityOfCard)
 
 ## Support TgScrape Development
